@@ -1,0 +1,242 @@
+[
+  {
+    "model": "qwen25",
+    "purpose": "bugfix",
+    "unweighted_count": 158,
+    "unweighted_share_accepted": 0.6528925619834711,
+    "design_weighted_share_accepted": 0.6550675876634985,
+    "design_weighted_mean_hunk_share_all": 0.6372495966027942
+  },
+  {
+    "model": "qwen25",
+    "purpose": "test",
+    "unweighted_count": 1,
+    "unweighted_share_accepted": 0.004132231404958678,
+    "design_weighted_share_accepted": 0.004903619148738915,
+    "design_weighted_mean_hunk_share_all": 0.016715116279069766
+  },
+  {
+    "model": "qwen25",
+    "purpose": "documentation",
+    "unweighted_count": 25,
+    "unweighted_share_accepted": 0.10330578512396695,
+    "design_weighted_share_accepted": 0.07836671918390783,
+    "design_weighted_mean_hunk_share_all": 0.0808561738648948
+  },
+  {
+    "model": "qwen25",
+    "purpose": "refactoring",
+    "unweighted_count": 1,
+    "unweighted_share_accepted": 0.004132231404958678,
+    "design_weighted_share_accepted": 0.004968225461634027,
+    "design_weighted_mean_hunk_share_all": 0.004233835447498238
+  },
+  {
+    "model": "qwen25",
+    "purpose": "whitespace",
+    "unweighted_count": 2,
+    "unweighted_share_accepted": 0.008264462809917356,
+    "design_weighted_share_accepted": 0.009936450923268053,
+    "design_weighted_mean_hunk_share_all": 0.011854739252995067
+  },
+  {
+    "model": "qwen25",
+    "purpose": "unrelated",
+    "unweighted_count": 55,
+    "unweighted_share_accepted": 0.22727272727272727,
+    "design_weighted_share_accepted": 0.24675739761895282,
+    "design_weighted_mean_hunk_share_all": 0.24909053855274788
+  },
+  {
+    "model": "qwen3",
+    "purpose": "bugfix",
+    "unweighted_count": 183,
+    "unweighted_share_accepted": 0.756198347107438,
+    "design_weighted_share_accepted": 0.7839027741443138,
+    "design_weighted_mean_hunk_share_all": 0.8596216875286643
+  },
+  {
+    "model": "qwen3",
+    "purpose": "test",
+    "unweighted_count": 1,
+    "unweighted_share_accepted": 0.004132231404958678,
+    "design_weighted_share_accepted": 0.004968225461634027,
+    "design_weighted_mean_hunk_share_all": 0.004233835447498238
+  },
+  {
+    "model": "qwen3",
+    "purpose": "documentation",
+    "unweighted_count": 21,
+    "unweighted_share_accepted": 0.08677685950413223,
+    "design_weighted_share_accepted": 0.07231052341312014,
+    "design_weighted_mean_hunk_share_all": 0.04914568232155441
+  },
+  {
+    "model": "qwen3",
+    "purpose": "refactoring",
+    "unweighted_count": 23,
+    "unweighted_share_accepted": 0.09504132231404959,
+    "design_weighted_share_accepted": 0.08006928011815942,
+    "design_weighted_mean_hunk_share_all": 0.045099968399387
+  },
+  {
+    "model": "qwen3",
+    "purpose": "whitespace",
+    "unweighted_count": 6,
+    "unweighted_share_accepted": 0.024793388429752067,
+    "design_weighted_share_accepted": 0.027349513553689163,
+    "design_weighted_mean_hunk_share_all": 0.01903052535319977
+  },
+  {
+    "model": "qwen3",
+    "purpose": "unrelated",
+    "unweighted_count": 8,
+    "unweighted_share_accepted": 0.03305785123966942,
+    "design_weighted_share_accepted": 0.031399683309083666,
+    "design_weighted_mean_hunk_share_all": 0.0228683009496963
+  },
+  {
+    "model": "qwen25_14b",
+    "purpose": "bugfix",
+    "unweighted_count": 177,
+    "unweighted_share_accepted": 0.731404958677686,
+    "design_weighted_share_accepted": 0.7778857113401939,
+    "design_weighted_mean_hunk_share_all": 0.7504203003875969
+  },
+  {
+    "model": "qwen25_14b",
+    "purpose": "test",
+    "unweighted_count": 1,
+    "unweighted_share_accepted": 0.004132231404958678,
+    "design_weighted_share_accepted": 0.004903619148738915,
+    "design_weighted_mean_hunk_share_all": 0.016715116279069766
+  },
+  {
+    "model": "qwen25_14b",
+    "purpose": "documentation",
+    "unweighted_count": 35,
+    "unweighted_share_accepted": 0.1446280991735537,
+    "design_weighted_share_accepted": 0.10778778801321236,
+    "design_weighted_mean_hunk_share_all": 0.09335203677136816
+  },
+  {
+    "model": "qwen25_14b",
+    "purpose": "refactoring",
+    "unweighted_count": 2,
+    "unweighted_share_accepted": 0.008264462809917356,
+    "design_weighted_share_accepted": 0.0023025689915817517,
+    "design_weighted_mean_hunk_share_all": 0.002616279069767442
+  },
+  {
+    "model": "qwen25_14b",
+    "purpose": "whitespace",
+    "unweighted_count": 0,
+    "unweighted_share_accepted": 0.0,
+    "design_weighted_share_accepted": 0.0,
+    "design_weighted_mean_hunk_share_all": 0.0
+  },
+  {
+    "model": "qwen25_14b",
+    "purpose": "unrelated",
+    "unweighted_count": 27,
+    "unweighted_share_accepted": 0.1115702479338843,
+    "design_weighted_share_accepted": 0.10712031250627316,
+    "design_weighted_mean_hunk_share_all": 0.13689626749219772
+  },
+  {
+    "model": "qwen3_14b",
+    "purpose": "bugfix",
+    "unweighted_count": 170,
+    "unweighted_share_accepted": 0.7024793388429752,
+    "design_weighted_share_accepted": 0.7426953910640887,
+    "design_weighted_mean_hunk_share_all": 0.7713881443169233
+  },
+  {
+    "model": "qwen3_14b",
+    "purpose": "test",
+    "unweighted_count": 1,
+    "unweighted_share_accepted": 0.004132231404958678,
+    "design_weighted_share_accepted": 0.004903619148738915,
+    "design_weighted_mean_hunk_share_all": 0.016715116279069766
+  },
+  {
+    "model": "qwen3_14b",
+    "purpose": "documentation",
+    "unweighted_count": 46,
+    "unweighted_share_accepted": 0.19008264462809918,
+    "design_weighted_share_accepted": 0.1586983932271541,
+    "design_weighted_mean_hunk_share_all": 0.12649775369978858
+  },
+  {
+    "model": "qwen3_14b",
+    "purpose": "refactoring",
+    "unweighted_count": 18,
+    "unweighted_share_accepted": 0.0743801652892562,
+    "design_weighted_share_accepted": 0.06117534850144966,
+    "design_weighted_mean_hunk_share_all": 0.061904227071378236
+  },
+  {
+    "model": "qwen3_14b",
+    "purpose": "whitespace",
+    "unweighted_count": 7,
+    "unweighted_share_accepted": 0.028925619834710745,
+    "design_weighted_share_accepted": 0.03252724805856877,
+    "design_weighted_mean_hunk_share_all": 0.023494758632840028
+  },
+  {
+    "model": "qwen3_14b",
+    "purpose": "unrelated",
+    "unweighted_count": 0,
+    "unweighted_share_accepted": 0.0,
+    "design_weighted_share_accepted": 0.0,
+    "design_weighted_mean_hunk_share_all": 0.0
+  },
+  {
+    "model": "consensus",
+    "purpose": "bugfix",
+    "unweighted_count": 185,
+    "unweighted_share_accepted": 0.7708333333333334,
+    "design_weighted_share_accepted": 0.8009729051276814,
+    "design_weighted_mean_hunk_share_all": 0.7995747995947852
+  },
+  {
+    "model": "consensus",
+    "purpose": "test",
+    "unweighted_count": 1,
+    "unweighted_share_accepted": 0.004166666666666667,
+    "design_weighted_share_accepted": 0.004909480698824335,
+    "design_weighted_mean_hunk_share_all": 0.016715116279069766
+  },
+  {
+    "model": "consensus",
+    "purpose": "documentation",
+    "unweighted_count": 29,
+    "unweighted_share_accepted": 0.12083333333333333,
+    "design_weighted_share_accepted": 0.09450158952869585,
+    "design_weighted_mean_hunk_share_all": 0.08338699757122722
+  },
+  {
+    "model": "consensus",
+    "purpose": "refactoring",
+    "unweighted_count": 3,
+    "unweighted_share_accepted": 0.0125,
+    "design_weighted_share_accepted": 0.006169516061315746,
+    "design_weighted_mean_hunk_share_all": 0.004640812191684285
+  },
+  {
+    "model": "consensus",
+    "purpose": "whitespace",
+    "unweighted_count": 1,
+    "unweighted_share_accepted": 0.004166666666666667,
+    "design_weighted_share_accepted": 0.004974164238993299,
+    "design_weighted_mean_hunk_share_all": 0.003387068357998591
+  },
+  {
+    "model": "consensus",
+    "purpose": "unrelated",
+    "unweighted_count": 21,
+    "unweighted_share_accepted": 0.0875,
+    "design_weighted_share_accepted": 0.08847234434448938,
+    "design_weighted_mean_hunk_share_all": 0.09188822926104903
+  }
+]

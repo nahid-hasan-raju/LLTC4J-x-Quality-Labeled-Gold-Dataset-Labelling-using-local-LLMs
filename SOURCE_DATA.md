@@ -1,0 +1,1 @@
+LLTC4J paper: https://doi.org/10.1007/s10664-021-10083-5 and author annotation FAQ https://smartshark.github.io/msr20_registered_report/. Gold workbook is user supplied and not redistributed. No dataset license is invented. Source code reuse/publication licensing must be reviewed before publishing this checkout; no blanket software license is assigned automatically.

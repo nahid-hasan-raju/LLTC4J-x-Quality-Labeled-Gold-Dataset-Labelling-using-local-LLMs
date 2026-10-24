@@ -1,0 +1,28 @@
+{
+  "id": "synthetic-example",
+  "packet": {
+    "commit_message": "Fix an off by one bound",
+    "changed_line_ids": [
+      "1",
+      "2"
+    ],
+    "diff_lines": {
+      "0": "@@ -1 +1 @@",
+      "1": "- return n + 1;",
+      "2": "+ return n;"
+    },
+    "hunk_views": [
+      {
+        "before_code": "return n + 1;",
+        "after_code": "return n;",
+        "before_line_ids": [
+          "1"
+        ],
+        "after_line_ids": [
+          "2"
+        ]
+      }
+    ],
+    "sibling_context": []
+  }
+}

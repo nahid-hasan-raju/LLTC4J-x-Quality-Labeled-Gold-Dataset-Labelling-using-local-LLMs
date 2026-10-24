@@ -1,0 +1,26 @@
+{
+  "qwen25": {
+    "raw_text": 20,
+    "token_ids": 20,
+    "predictions": 20,
+    "hunks": 20
+  },
+  "qwen3": {
+    "raw_text": 20,
+    "token_ids": 20,
+    "predictions": 20,
+    "hunks": 20
+  },
+  "qwen25_14b": {
+    "raw_text": 20,
+    "token_ids": 20,
+    "predictions": 20,
+    "hunks": 20
+  },
+  "qwen3_14b": {
+    "raw_text": 20,
+    "token_ids": 20,
+    "predictions": 20,
+    "hunks": 20
+  }
+}

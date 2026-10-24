@@ -1,0 +1,48 @@
+{
+  "method": "v6_clean_zero_shot_repeatability_comparison",
+  "max_context_tokens": 4096,
+  "max_new_tokens": 512,
+  "seed": 20261024,
+  "models": {
+    "qwen25": {
+      "repo_id": "Qwen/Qwen2.5-Coder-7B-Instruct",
+      "revision": "c03e6d358207e414f1eca0bb1891e29f1db0e242",
+      "loader": "causal",
+      "chat_options": {}
+    },
+    "qwen3": {
+      "repo_id": "Qwen/Qwen3-8B",
+      "revision": "b968826d9c46dd6066d109eabc6255188de91218",
+      "loader": "causal",
+      "chat_options": {
+        "enable_thinking": false
+      }
+    },
+    "qwen25_14b": {
+      "repo_id": "Qwen/Qwen2.5-Coder-14B-Instruct",
+      "revision": "aedcc2d42b622764e023cf882b6652e646b95671",
+      "loader": "causal",
+      "chat_options": {}
+    },
+    "qwen3_14b": {
+      "repo_id": "Qwen/Qwen3-14B",
+      "revision": "40c069824f4251a91eefaf281ebe4c544efd3e18",
+      "loader": "causal",
+      "chat_options": {
+        "enable_thinking": false
+      }
+    }
+  },
+  "repeats": 2,
+  "consensus": {
+    "rule": "at least 3 valid model votes; unique plurality with at least 2 votes; 2-2 tie resolved by frozen priority; all-different votes abstain",
+    "tie_priority": [
+      "qwen25",
+      "qwen25_14b",
+      "qwen3_14b",
+      "qwen3"
+    ],
+    "priority_basis": "prior exposed development wrapper-normalized accuracy; no new run scores used",
+    "abstentions_count_as_errors_in_full_denominator_metrics": true
+  }
+}

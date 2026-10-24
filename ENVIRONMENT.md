@@ -1,0 +1,1 @@
+Validated Python 3.13.11; CUDA 12.9; GPU NVIDIA A40. Exact original package inventory is retained in private HPC run records. requirements-hpc.txt pins the executed inference components. The CUDA-compatible PyTorch wheel and driver must be provisioned by the site; do not blindly install a generic CPU wheel. Separate scoring and relation analysis use Python standard library only.

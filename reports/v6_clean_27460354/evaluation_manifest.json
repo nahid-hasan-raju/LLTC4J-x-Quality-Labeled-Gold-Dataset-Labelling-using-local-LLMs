@@ -1,0 +1,20 @@
+{
+  "job_id": "27460354",
+  "inputs_sha256": "0030e319f05eb28398c362ae53df54f6f6f827925c5d0f674c1beb698b4b55c3",
+  "references_sha256": "4c231e83810664dd8165f54239e6aefc7b01bcc6ba48c84146640094b83b0cae",
+  "primary_repeat": 1,
+  "cohort": "20 exposed development hunks; 171 reference lines; not final held-out test",
+  "consensus": {
+    "rule": "at least 3 valid model votes; unique plurality with at least 2 votes; 2-2 tie resolved by frozen priority; all-different votes abstain",
+    "tie_priority": [
+      "qwen25",
+      "qwen25_14b",
+      "qwen3_14b",
+      "qwen3"
+    ],
+    "priority_basis": "prior exposed development wrapper-normalized accuracy; no new run scores used",
+    "abstentions_count_as_errors_in_full_denominator_metrics": true
+  },
+  "consensus_latency_note": "Sequential ensemble requires the sum of four model times; consensus seconds=0 means combination itself is not timed, not free inference",
+  "differences_from_old_v6": "Whole-document JSON/list transport parsing; deterministic controls; eager attention instead of SDPA. Prompt semantics and model revisions unchanged."
+}

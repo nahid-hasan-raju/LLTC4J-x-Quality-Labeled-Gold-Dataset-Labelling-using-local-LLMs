@@ -1,0 +1,48 @@
+{
+  "source": "/Users/mhasan29/Documents/Research/Datasets/Our_Dataset/projects_tangled_code.xlsx",
+  "source_sha256": "9b76b82cc8a0dccfa5c2c551c10750275ddf838854ceae50a60a3c1458a45ba7",
+  "source_hunks": 1408,
+  "source_counts": {
+    "Other": 781,
+    "Portability": 174,
+    "Reliability": 52,
+    "Usability": 165,
+    "Efficiency": 189,
+    "Maintainability": 17,
+    "Functionality": 30
+  },
+  "eligible_hunks": 1376,
+  "eligible_counts": {
+    "Functionality": 27,
+    "Portability": 170,
+    "Usability": 161,
+    "Efficiency": 186,
+    "Reliability": 49,
+    "Other": 769,
+    "Maintainability": 14
+  },
+  "exclusions": {
+    "previous_pilot_commit": 30,
+    "context_size": 1,
+    "exact_duplicate_diff": 1
+  },
+  "quotas": {
+    "Functionality": 5,
+    "Reliability": 5,
+    "Maintainability": 5,
+    "Portability": 7,
+    "Usability": 7,
+    "Efficiency": 8,
+    "Other": 33
+  },
+  "selected_hunks": 70,
+  "changed_lines": 242,
+  "seed": "gold-final-v6-20261024",
+  "selection": "SHA256 pseudorandom ranking within quality strata; constrained proportional allocation with minimum 5; exact diff deduplication; previous pilot commits excluded",
+  "quality_labels_in_predictor": false,
+  "line_purpose_ground_truth_available": false,
+  "annotation_provenance": "User identifies quality labels as manually assigned. Workbook supplies hunk labels; original annotation codebook/procedure not located. Do not assert annotator count or adjudication.",
+  "generalization": "Restricted deduplicated, unexposed, context-eligible Gold population; minimum quotas oversample small categories. Use inverse inclusion probability weights for overall composition.",
+  "inputs_sha256": "66f3f4c4426e4316e9f4023636ef440bb03e8feadb6ed127e9100d325839c47b",
+  "metadata_sha256": "e450f35b860a8c0b1f14d892fc657e924d7ee83ee5b06ff3887458efe5fd8963"
+}

@@ -1,0 +1,14 @@
+{
+  "version": "v6_annotation_rules",
+  "source_sha256": "2cfef65dd7e2d04db97cc360377e6581463c6a9d1085fc2804d99c259c2b06bd",
+  "cohort": "Previously exposed development cohort; no fresh-test claim",
+  "hunks": 20,
+  "reference_lines": 171,
+  "inputs_sha256": "0030e319f05eb28398c362ae53df54f6f6f827925c5d0f674c1beb698b4b55c3",
+  "references_sha256": "4c231e83810664dd8165f54239e6aefc7b01bcc6ba48c84146640094b83b0cae",
+  "prompt_sha256": {
+    "system.txt": "5d93586abe0688506c756b57f4ab1a837a44155644f79362c62d0442a92f4d0d",
+    "target.txt": "04367ac12f5ecd97560b575e454c0a36078aaceabae6d7ee9e967659806457b6"
+  },
+  "reference_file_never_required_by_predictor": true
+}

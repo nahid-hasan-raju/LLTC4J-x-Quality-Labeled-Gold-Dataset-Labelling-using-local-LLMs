@@ -1,0 +1,44 @@
+[
+  {
+    "model_a": "qwen25",
+    "model_b": "qwen3",
+    "common_lines": 242,
+    "same_labels": 151,
+    "agreement": 0.6239669421487604
+  },
+  {
+    "model_a": "qwen25",
+    "model_b": "qwen25_14b",
+    "common_lines": 242,
+    "same_labels": 179,
+    "agreement": 0.7396694214876033
+  },
+  {
+    "model_a": "qwen25",
+    "model_b": "qwen3_14b",
+    "common_lines": 242,
+    "same_labels": 158,
+    "agreement": 0.6528925619834711
+  },
+  {
+    "model_a": "qwen3",
+    "model_b": "qwen25_14b",
+    "common_lines": 242,
+    "same_labels": 171,
+    "agreement": 0.7066115702479339
+  },
+  {
+    "model_a": "qwen3",
+    "model_b": "qwen3_14b",
+    "common_lines": 242,
+    "same_labels": 191,
+    "agreement": 0.7892561983471075
+  },
+  {
+    "model_a": "qwen25_14b",
+    "model_b": "qwen3_14b",
+    "common_lines": 242,
+    "same_labels": 191,
+    "agreement": 0.7892561983471075
+  }
+]

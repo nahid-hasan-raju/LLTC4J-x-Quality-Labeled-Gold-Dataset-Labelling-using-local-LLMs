@@ -1,0 +1,838 @@
+{
+  "prepared_v6_dev": [
+    {
+      "id": "5a82f5ef912063217a88d838"
+    },
+    {
+      "id": "5bbe0f725f06ec48235ce700"
+    },
+    {
+      "id": "5caee6824dd2d957413f49fd"
+    },
+    {
+      "id": "5b48c82e56677a7f01f87936"
+    },
+    {
+      "id": "5a82f5cf912063217c88b32e"
+    },
+    {
+      "id": "5bec1dacdf629e06b541c603"
+    },
+    {
+      "id": "5b48cc2d56677a7f0bf88994"
+    },
+    {
+      "id": "5a82f5ef912063217a88d85f"
+    },
+    {
+      "id": "5a8562d577d2b433dc712833"
+    },
+    {
+      "id": "5a82f5b8912063217c889eb3"
+    },
+    {
+      "id": "5a85630177d2b433df717466"
+    },
+    {
+      "id": "5bf29f446461f52965bc4bec"
+    },
+    {
+      "id": "5bbe0f455f06ec48235cc3e3"
+    },
+    {
+      "id": "5a82f5e2912063217d88d7fe"
+    },
+    {
+      "id": "5bec1daedf629e06b241c5ca"
+    },
+    {
+      "id": "5c87a793e84e0032bb5903c1"
+    },
+    {
+      "id": "5b4769ec0f9db94b6f27030b"
+    },
+    {
+      "id": "5bed83ce8fc5e969797eaefc"
+    },
+    {
+      "id": "5b27c648eee553715d77d00f"
+    },
+    {
+      "id": "5caee6d44dd2d957413f71e7"
+    }
+  ],
+  "prepared_gold_final_20261024": [
+    {
+      "id": "gf6-a398efb6acc8987c122f",
+      "source_id": "gold:adobe-aem-core-wcm-components:6",
+      "sheet": "adobe-aem-core-wcm-components",
+      "row": 6,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-daa985fc828bd6867036",
+      "source_id": "gold:java-gnome-ui-exclude:19",
+      "sheet": "java-gnome-ui-exclude",
+      "row": 19,
+      "quality_label": "Functionality",
+      "inclusion_probability": 0.18518518518518517
+    },
+    {
+      "id": "gf6-6ce8af68c8ab10adc102",
+      "source_id": "gold:abiquo-exclude:27",
+      "sheet": "abiquo-exclude",
+      "row": 27,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-d33dbaa93060bcd07b51",
+      "source_id": "gold:adopt-openJDK library:109",
+      "sheet": "adopt-openJDK library",
+      "row": 109,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-60a1df716fb6debb318d",
+      "source_id": "gold:java-gnome-ui-exclude:39",
+      "sheet": "java-gnome-ui-exclude",
+      "row": 39,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-6a64b18155a50bf16f00",
+      "source_id": "gold:adopt-openJDK library:520",
+      "sheet": "adopt-openJDK library",
+      "row": 520,
+      "quality_label": "Efficiency",
+      "inclusion_probability": 0.043010752688172046
+    },
+    {
+      "id": "gf6-e9e246e05228bd200f5a",
+      "source_id": "gold:antlr4:4",
+      "sheet": "antlr4",
+      "row": 4,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-621b74867f9897b67be7",
+      "source_id": "gold:adopt-openJDK library:302",
+      "sheet": "adopt-openJDK library",
+      "row": 302,
+      "quality_label": "Portability",
+      "inclusion_probability": 0.041176470588235294
+    },
+    {
+      "id": "gf6-4c170f7f8647d103200e",
+      "source_id": "gold:adopt-openJDK library:370",
+      "sheet": "adopt-openJDK library",
+      "row": 370,
+      "quality_label": "Portability",
+      "inclusion_probability": 0.041176470588235294
+    },
+    {
+      "id": "gf6-0a475b413b1b9b44e8f3",
+      "source_id": "gold:netbeans:66",
+      "sheet": "netbeans",
+      "row": 66,
+      "quality_label": "Efficiency",
+      "inclusion_probability": 0.043010752688172046
+    },
+    {
+      "id": "gf6-a7af61e2203e5243f850",
+      "source_id": "gold:adopt-openJDK library:87",
+      "sheet": "adopt-openJDK library",
+      "row": 87,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-37502f04b6f3056277d5",
+      "source_id": "gold:adopt-openJDK library:305",
+      "sheet": "adopt-openJDK library",
+      "row": 305,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-9bbd8a2d9bcedcf16362",
+      "source_id": "gold:antlr4:6",
+      "sheet": "antlr4",
+      "row": 6,
+      "quality_label": "Functionality",
+      "inclusion_probability": 0.18518518518518517
+    },
+    {
+      "id": "gf6-f417a0537a1a357c19f5",
+      "source_id": "gold:adopt-openJDK library:336",
+      "sheet": "adopt-openJDK library",
+      "row": 336,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-928bcacb0bf534a6da21",
+      "source_id": "gold:carrot2:34",
+      "sheet": "carrot2",
+      "row": 34,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-30290a2e9e3daa9316f3",
+      "source_id": "gold:adobe-aem-core-wcm-components:12",
+      "sheet": "adobe-aem-core-wcm-components",
+      "row": 12,
+      "quality_label": "Efficiency",
+      "inclusion_probability": 0.043010752688172046
+    },
+    {
+      "id": "gf6-c13be3eb2bd354bf02b7",
+      "source_id": "gold:antlr4:42",
+      "sheet": "antlr4",
+      "row": 42,
+      "quality_label": "Usability",
+      "inclusion_probability": 0.043478260869565216
+    },
+    {
+      "id": "gf6-b08d2cce183788535fb8",
+      "source_id": "gold:java-gnome-ui-exclude:8",
+      "sheet": "java-gnome-ui-exclude",
+      "row": 8,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-b5ddbd0f96ffe6d45eea",
+      "source_id": "gold:adobe-aem-core-wcm-components:34",
+      "sheet": "adobe-aem-core-wcm-components",
+      "row": 34,
+      "quality_label": "Efficiency",
+      "inclusion_probability": 0.043010752688172046
+    },
+    {
+      "id": "gf6-9b4ff8c66d0b56dd08af",
+      "source_id": "gold:adaptris-interlok-exclude :16",
+      "sheet": "adaptris-interlok-exclude ",
+      "row": 16,
+      "quality_label": "Reliability",
+      "inclusion_probability": 0.10204081632653061
+    },
+    {
+      "id": "gf6-81b18a0b3340fd10ee7c",
+      "source_id": "gold:adopt-openJDK library:427",
+      "sheet": "adopt-openJDK library",
+      "row": 427,
+      "quality_label": "Efficiency",
+      "inclusion_probability": 0.043010752688172046
+    },
+    {
+      "id": "gf6-b675b5daaf3b939f0ca0",
+      "source_id": "gold:antlr4:45",
+      "sheet": "antlr4",
+      "row": 45,
+      "quality_label": "Maintainability",
+      "inclusion_probability": 0.35714285714285715
+    },
+    {
+      "id": "gf6-481e1ed8a58965d30c6a",
+      "source_id": "gold:adempiere:93",
+      "sheet": "adempiere",
+      "row": 93,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-47ab32e4c1efaccfe83a",
+      "source_id": "gold:adobe-aem-core-wcm-components:47",
+      "sheet": "adobe-aem-core-wcm-components",
+      "row": 47,
+      "quality_label": "Maintainability",
+      "inclusion_probability": 0.35714285714285715
+    },
+    {
+      "id": "gf6-314896cd51d6f2f18ce3",
+      "source_id": "gold:adopt-openJDK library:34",
+      "sheet": "adopt-openJDK library",
+      "row": 34,
+      "quality_label": "Portability",
+      "inclusion_probability": 0.041176470588235294
+    },
+    {
+      "id": "gf6-90ee69cb172d16ff85dd",
+      "source_id": "gold:adopt-openJDK library:327",
+      "sheet": "adopt-openJDK library",
+      "row": 327,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-aeee5818ed1ac3749b4b",
+      "source_id": "gold:intellij:30",
+      "sheet": "intellij",
+      "row": 30,
+      "quality_label": "Maintainability",
+      "inclusion_probability": 0.35714285714285715
+    },
+    {
+      "id": "gf6-af87da41eea0ae2b3d62",
+      "source_id": "gold:adaptris-interlok-exclude :12",
+      "sheet": "adaptris-interlok-exclude ",
+      "row": 12,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-3671a3d8d3f82ed2d94b",
+      "source_id": "gold:antlr4:36",
+      "sheet": "antlr4",
+      "row": 36,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-a1da78393d8bf484a208",
+      "source_id": "gold:adopt-openJDK library:41",
+      "sheet": "adopt-openJDK library",
+      "row": 41,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-cf137468a5b30570973e",
+      "source_id": "gold:intellij:20",
+      "sheet": "intellij",
+      "row": 20,
+      "quality_label": "Reliability",
+      "inclusion_probability": 0.10204081632653061
+    },
+    {
+      "id": "gf6-003f1305868d154e6fed",
+      "source_id": "gold:adobe-aem-core-wcm-components:44",
+      "sheet": "adobe-aem-core-wcm-components",
+      "row": 44,
+      "quality_label": "Usability",
+      "inclusion_probability": 0.043478260869565216
+    },
+    {
+      "id": "gf6-043de6e379b91c5344f4",
+      "source_id": "gold:carrot2:38",
+      "sheet": "carrot2",
+      "row": 38,
+      "quality_label": "Maintainability",
+      "inclusion_probability": 0.35714285714285715
+    },
+    {
+      "id": "gf6-025d5755eeb347c3febb",
+      "source_id": "gold:adopt-openJDK library:248",
+      "sheet": "adopt-openJDK library",
+      "row": 248,
+      "quality_label": "Portability",
+      "inclusion_probability": 0.041176470588235294
+    },
+    {
+      "id": "gf6-e3007a3b6ee59aae4dc2",
+      "source_id": "gold:adopt-openJDK library:93",
+      "sheet": "adopt-openJDK library",
+      "row": 93,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-551088f1003693728320",
+      "source_id": "gold:adopt-openJDK library:47",
+      "sheet": "adopt-openJDK library",
+      "row": 47,
+      "quality_label": "Usability",
+      "inclusion_probability": 0.043478260869565216
+    },
+    {
+      "id": "gf6-1fe027bc84334262c81d",
+      "source_id": "gold:carrot2:24",
+      "sheet": "carrot2",
+      "row": 24,
+      "quality_label": "Maintainability",
+      "inclusion_probability": 0.35714285714285715
+    },
+    {
+      "id": "gf6-403d1c2320aa828a0b57",
+      "source_id": "gold:adopt-openJDK library:527",
+      "sheet": "adopt-openJDK library",
+      "row": 527,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-cce6dae5ac29152e368b",
+      "source_id": "gold:adempiere:187",
+      "sheet": "adempiere",
+      "row": 187,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-dedb180e1bec1bc48c70",
+      "source_id": "gold:adopt-openJDK library:12",
+      "sheet": "adopt-openJDK library",
+      "row": 12,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-5ab169797b4acbbf27c0",
+      "source_id": "gold:adempiere:84",
+      "sheet": "adempiere",
+      "row": 84,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-ae7394084aff8221dfcf",
+      "source_id": "gold:adopt-openJDK library:465",
+      "sheet": "adopt-openJDK library",
+      "row": 465,
+      "quality_label": "Portability",
+      "inclusion_probability": 0.041176470588235294
+    },
+    {
+      "id": "gf6-a7e02bd1ec292224c01e",
+      "source_id": "gold:java-gnome-ui-exclude:54",
+      "sheet": "java-gnome-ui-exclude",
+      "row": 54,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-d87e3c4f5fcacaa28ec8",
+      "source_id": "gold:intellij:5",
+      "sheet": "intellij",
+      "row": 5,
+      "quality_label": "Efficiency",
+      "inclusion_probability": 0.043010752688172046
+    },
+    {
+      "id": "gf6-a65232d930ded700ce34",
+      "source_id": "gold:adempiere:179",
+      "sheet": "adempiere",
+      "row": 179,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-40a340ebb07a98e5f1ed",
+      "source_id": "gold:adopt-openJDK library:371",
+      "sheet": "adopt-openJDK library",
+      "row": 371,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-af970838ad52a7d87228",
+      "source_id": "gold:adempiere:153",
+      "sheet": "adempiere",
+      "row": 153,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-a314184782c39b56a2ba",
+      "source_id": "gold:adopt-openJDK library:365",
+      "sheet": "adopt-openJDK library",
+      "row": 365,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-97f48cf5e298508deec5",
+      "source_id": "gold:carrot2:28",
+      "sheet": "carrot2",
+      "row": 28,
+      "quality_label": "Usability",
+      "inclusion_probability": 0.043478260869565216
+    },
+    {
+      "id": "gf6-a0223d5d85f6e2bdaee8",
+      "source_id": "gold:adopt-openJDK library:481",
+      "sheet": "adopt-openJDK library",
+      "row": 481,
+      "quality_label": "Efficiency",
+      "inclusion_probability": 0.043010752688172046
+    },
+    {
+      "id": "gf6-3112fe53762728758cde",
+      "source_id": "gold:java-gnome-ui-exclude:43",
+      "sheet": "java-gnome-ui-exclude",
+      "row": 43,
+      "quality_label": "Usability",
+      "inclusion_probability": 0.043478260869565216
+    },
+    {
+      "id": "gf6-3a17e06272fb4a645710",
+      "source_id": "gold:adempiere:202",
+      "sheet": "adempiere",
+      "row": 202,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-43f1b8863ab78727ff8e",
+      "source_id": "gold:antlr4:34",
+      "sheet": "antlr4",
+      "row": 34,
+      "quality_label": "Reliability",
+      "inclusion_probability": 0.10204081632653061
+    },
+    {
+      "id": "gf6-6c2dc3314521aba3b8ac",
+      "source_id": "gold:carrot2:68",
+      "sheet": "carrot2",
+      "row": 68,
+      "quality_label": "Usability",
+      "inclusion_probability": 0.043478260869565216
+    },
+    {
+      "id": "gf6-355b7fe4289af897771b",
+      "source_id": "gold:hydra-sys:54",
+      "sheet": "hydra-sys",
+      "row": 54,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-a8c0355faab85aa8c2bd",
+      "source_id": "gold:abiquo-exclude:38",
+      "sheet": "abiquo-exclude",
+      "row": 38,
+      "quality_label": "Functionality",
+      "inclusion_probability": 0.18518518518518517
+    },
+    {
+      "id": "gf6-5a552e335645cc3cc2b0",
+      "source_id": "gold:netbeans:27",
+      "sheet": "netbeans",
+      "row": 27,
+      "quality_label": "Reliability",
+      "inclusion_probability": 0.10204081632653061
+    },
+    {
+      "id": "gf6-2d5c514b543ed85b4eed",
+      "source_id": "gold:adobe-aem-core-wcm-components:35",
+      "sheet": "adobe-aem-core-wcm-components",
+      "row": 35,
+      "quality_label": "Functionality",
+      "inclusion_probability": 0.18518518518518517
+    },
+    {
+      "id": "gf6-b12af30960af872f6cac",
+      "source_id": "gold:netbeans:49",
+      "sheet": "netbeans",
+      "row": 49,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-412c9d2ca22a9ab18bef",
+      "source_id": "gold:adopt-openJDK library:377",
+      "sheet": "adopt-openJDK library",
+      "row": 377,
+      "quality_label": "Portability",
+      "inclusion_probability": 0.041176470588235294
+    },
+    {
+      "id": "gf6-0cb9646067dbfc21136e",
+      "source_id": "gold:adopt-openJDK library:466",
+      "sheet": "adopt-openJDK library",
+      "row": 466,
+      "quality_label": "Efficiency",
+      "inclusion_probability": 0.043010752688172046
+    },
+    {
+      "id": "gf6-8804b86bbec19d68a244",
+      "source_id": "gold:adopt-openJDK library:11",
+      "sheet": "adopt-openJDK library",
+      "row": 11,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-8cde93208cac00c3592a",
+      "source_id": "gold:abiquo-exclude:10",
+      "sheet": "abiquo-exclude",
+      "row": 10,
+      "quality_label": "Functionality",
+      "inclusion_probability": 0.18518518518518517
+    },
+    {
+      "id": "gf6-30ee59eb07517c122bc8",
+      "source_id": "gold:java-gnome-ui-exclude:41",
+      "sheet": "java-gnome-ui-exclude",
+      "row": 41,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-1c0af26ad387d16c2927",
+      "source_id": "gold:carrot2:82",
+      "sheet": "carrot2",
+      "row": 82,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-cf5000be18563bef04c8",
+      "source_id": "gold:antlr4:57",
+      "sheet": "antlr4",
+      "row": 57,
+      "quality_label": "Reliability",
+      "inclusion_probability": 0.10204081632653061
+    },
+    {
+      "id": "gf6-3b9c6b3c1fa735aba6a6",
+      "source_id": "gold:netbeans:81",
+      "sheet": "netbeans",
+      "row": 81,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-793a58444d5a3e11f41a",
+      "source_id": "gold:netbeans:77",
+      "sheet": "netbeans",
+      "row": 77,
+      "quality_label": "Other",
+      "inclusion_probability": 0.04291287386215865
+    },
+    {
+      "id": "gf6-ee7185d1e8d0557f3d96",
+      "source_id": "gold:adopt-openJDK library:447",
+      "sheet": "adopt-openJDK library",
+      "row": 447,
+      "quality_label": "Usability",
+      "inclusion_probability": 0.043478260869565216
+    },
+    {
+      "id": "gf6-fa8328e393f3fdda5602",
+      "source_id": "gold:abiquo-exclude:25",
+      "sheet": "abiquo-exclude",
+      "row": 25,
+      "quality_label": "Portability",
+      "inclusion_probability": 0.041176470588235294
+    }
+  ],
+  "prepared_gold_v6_pilot_20261023": [
+    {
+      "id": "gp6-1626292553a48259fc3a",
+      "source_id": "gold:abiquo-exclude:19",
+      "sheet": "abiquo-exclude",
+      "row": 19,
+      "quality_label": "Functionality"
+    },
+    {
+      "id": "gp6-1e95737b3304f1b38135",
+      "source_id": "gold:carrot2:13",
+      "sheet": "carrot2",
+      "row": 13,
+      "quality_label": "Other"
+    },
+    {
+      "id": "gp6-3b2fbdc6fdc033b81ca1",
+      "source_id": "gold:adempiere:163",
+      "sheet": "adempiere",
+      "row": 163,
+      "quality_label": "Other"
+    },
+    {
+      "id": "gp6-4055cca49a24444a029c",
+      "source_id": "gold:adopt-openJDK library:457",
+      "sheet": "adopt-openJDK library",
+      "row": 457,
+      "quality_label": "Maintainability"
+    },
+    {
+      "id": "gp6-617359f2ff92dafb8b47",
+      "source_id": "gold:adopt-openJDK library:209",
+      "sheet": "adopt-openJDK library",
+      "row": 209,
+      "quality_label": "Other"
+    },
+    {
+      "id": "gp6-6eb5cc2abc2307e5290a",
+      "source_id": "gold:adopt-openJDK library:30",
+      "sheet": "adopt-openJDK library",
+      "row": 30,
+      "quality_label": "Portability"
+    },
+    {
+      "id": "gp6-7346cf3a09e3723a734d",
+      "source_id": "gold:netbeans:24",
+      "sheet": "netbeans",
+      "row": 24,
+      "quality_label": "Reliability"
+    },
+    {
+      "id": "gp6-75ba23d78a55aca2b91b",
+      "source_id": "gold:adopt-openJDK library:442",
+      "sheet": "adopt-openJDK library",
+      "row": 442,
+      "quality_label": "Portability"
+    },
+    {
+      "id": "gp6-7606e671555d3aceee53",
+      "source_id": "gold:adopt-openJDK library:610",
+      "sheet": "adopt-openJDK library",
+      "row": 610,
+      "quality_label": "Functionality"
+    },
+    {
+      "id": "gp6-7883cabe864dfcdfb7cf",
+      "source_id": "gold:abiquo-exclude:26",
+      "sheet": "abiquo-exclude",
+      "row": 26,
+      "quality_label": "Maintainability"
+    },
+    {
+      "id": "gp6-806992f8986d76c359bc",
+      "source_id": "gold:adopt-openJDK library:620",
+      "sheet": "adopt-openJDK library",
+      "row": 620,
+      "quality_label": "Reliability"
+    },
+    {
+      "id": "gp6-8206974bc9a4ae95cf61",
+      "source_id": "gold:adempiere:64",
+      "sheet": "adempiere",
+      "row": 64,
+      "quality_label": "Efficiency"
+    },
+    {
+      "id": "gp6-898f6d52cde374402ec8",
+      "source_id": "gold:java-gnome-ui-exclude:30",
+      "sheet": "java-gnome-ui-exclude",
+      "row": 30,
+      "quality_label": "Usability"
+    },
+    {
+      "id": "gp6-92647706036302fd9c7e",
+      "source_id": "gold:hydra-sys:22",
+      "sheet": "hydra-sys",
+      "row": 22,
+      "quality_label": "Efficiency"
+    },
+    {
+      "id": "gp6-9822e65cdb131e33820f",
+      "source_id": "gold:adempiere:161",
+      "sheet": "adempiere",
+      "row": 161,
+      "quality_label": "Other"
+    },
+    {
+      "id": "gp6-99324539396f20f8c409",
+      "source_id": "gold:adobe-aem-core-wcm-components:9",
+      "sheet": "adobe-aem-core-wcm-components",
+      "row": 9,
+      "quality_label": "Other"
+    },
+    {
+      "id": "gp6-99d6ec286f9479e7aacb",
+      "source_id": "gold:adopt-openJDK library:357",
+      "sheet": "adopt-openJDK library",
+      "row": 357,
+      "quality_label": "Usability"
+    },
+    {
+      "id": "gp6-9f748e44c93b50cd5b55",
+      "source_id": "gold:hydra-sys:72",
+      "sheet": "hydra-sys",
+      "row": 72,
+      "quality_label": "Other"
+    },
+    {
+      "id": "gp6-a3f1d38be7d68530dfd0",
+      "source_id": "gold:adopt-openJDK library:515",
+      "sheet": "adopt-openJDK library",
+      "row": 515,
+      "quality_label": "Reliability"
+    },
+    {
+      "id": "gp6-b71b0d5c2218b28fddbe",
+      "source_id": "gold:adopt-openJDK library:201",
+      "sheet": "adopt-openJDK library",
+      "row": 201,
+      "quality_label": "Other"
+    },
+    {
+      "id": "gp6-b91fe797e27a9ff683c1",
+      "source_id": "gold:adopt-openJDK library:158",
+      "sheet": "adopt-openJDK library",
+      "row": 158,
+      "quality_label": "Other"
+    },
+    {
+      "id": "gp6-b95003818c8f3d2226c2",
+      "source_id": "gold:java-gnome-ui-exclude:45",
+      "sheet": "java-gnome-ui-exclude",
+      "row": 45,
+      "quality_label": "Other"
+    },
+    {
+      "id": "gp6-bf830e76999e9a869cb2",
+      "source_id": "gold:adopt-openJDK library:157",
+      "sheet": "adopt-openJDK library",
+      "row": 157,
+      "quality_label": "Other"
+    },
+    {
+      "id": "gp6-cbbf5e2f102260319785",
+      "source_id": "gold:carrot2:39",
+      "sheet": "carrot2",
+      "row": 39,
+      "quality_label": "Usability"
+    },
+    {
+      "id": "gp6-cc5c28413966cb0d0b27",
+      "source_id": "gold:adopt-openJDK library:542",
+      "sheet": "adopt-openJDK library",
+      "row": 542,
+      "quality_label": "Efficiency"
+    },
+    {
+      "id": "gp6-cda4696da6a4f405acf9",
+      "source_id": "gold:adopt-openJDK library:535",
+      "sheet": "adopt-openJDK library",
+      "row": 535,
+      "quality_label": "Other"
+    },
+    {
+      "id": "gp6-ce5d98e5c655fa385551",
+      "source_id": "gold:adopt-openJDK library:50",
+      "sheet": "adopt-openJDK library",
+      "row": 50,
+      "quality_label": "Portability"
+    },
+    {
+      "id": "gp6-d762873a34dc34f3fd7d",
+      "source_id": "gold:adempiere:107",
+      "sheet": "adempiere",
+      "row": 107,
+      "quality_label": "Maintainability"
+    },
+    {
+      "id": "gp6-ed9c0f1f4b29cd5bba7b",
+      "source_id": "gold:adopt-openJDK library:617",
+      "sheet": "adopt-openJDK library",
+      "row": 617,
+      "quality_label": "Functionality"
+    },
+    {
+      "id": "gp6-ffc9b458137eb0fcef43",
+      "source_id": "gold:java-gnome-ui-exclude:33",
+      "sheet": "java-gnome-ui-exclude",
+      "row": 33,
+      "quality_label": "Other"
+    }
+  ]
+}

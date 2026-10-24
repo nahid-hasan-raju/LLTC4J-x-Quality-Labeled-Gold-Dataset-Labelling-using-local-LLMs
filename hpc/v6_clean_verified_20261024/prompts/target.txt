@@ -1,0 +1,2 @@
+Label the target hunk using the complete before/after edit and the six definitions. Return only the required line-label JSON. Required prediction count: {count}. Required IDs in order: {ids}.
+INPUT_DATA
